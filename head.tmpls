@@ -1,3 +1,5 @@
 <templatizer>
 <meta charset="utf-8"/>
+<link rel="icon" type="image/jpeg" href="me.jpg"/>
+<link rel="stylesheet" href="foundation/6.7.5/css/foundation.css" crossorigin="anonymous"/>
 </templatizer>
