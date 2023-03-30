@@ -1,5 +1,5 @@
 TEMPLATE_BUILDER=/usr/lib/cgi-bin/templatizer
-HTML_PAGES=$(patsubst %.tmpl,%.html,$(shell ls *.tmpl snacks-and-sanity/*.tmpl))
+HTML_PAGES=$(patsubst %.tmpl,%.html,$(shell ls *.tmpl snacks-and-sanity/*.tmpl charlie/*.tmpl))
 
 all: $(HTML_PAGES)
 
