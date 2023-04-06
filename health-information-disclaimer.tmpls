@@ -1,4 +1,5 @@
-<div data-alert="" class="alert-box alert round">
+<div data-closeable="" class="alert-box alert callout round">
+  <i class="fa fa-exclamation-triangle"></i>
   Disclaimer: The stories presented on this website
   are fictional fairy tales intended for entertainment
   purposes only. They should not be taken as medical
@@ -12,6 +13,8 @@
   owners, authors, and publishers of these stories are
   not responsible for any actions taken based on the
   information presented in these stories.
-  <a href="#" class="close">X</a>
+  <button class="close-button" aria-label="Dismiss alert" type="button" data-close="">
+    <span aria-hidden="true"><i class="fa fa-close"></i></span>
+  </button>
 </div>
 
