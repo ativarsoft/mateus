@@ -1,18 +1,20 @@
 <div data-closeable="" class="alert-box alert callout">
-  <i class="fa-solid fa-ban"></i>
-  Disclaimer: The stories presented on this website
-  are fictional fairy tales intended for entertainment
-  purposes only. They should not be taken as medical
-  advice or used as a substitute for professional
-  medical treatment or advice. While the stories may
-  contain references to medical conditions and
-  treatments, they are not intended to provide medical
-  advice or diagnosis. Always consult a qualified
-  healthcare provider for proper diagnosis and
-  treatment of any medical condition. The website
-  owners, authors, and publishers of these stories are
-  not responsible for any actions taken based on the
-  information presented in these stories.
+  <p>
+    <i class="fa-solid fa-ban"></i>
+    Disclaimer: The stories presented on this website
+    are fictional fairy tales intended for entertainment
+    purposes only. They should not be taken as medical
+    advice or used as a substitute for professional
+    medical treatment or advice. While the stories may
+    contain references to medical conditions and
+    treatments, they are not intended to provide medical
+    advice or diagnosis. Always consult a qualified
+    healthcare provider for proper diagnosis and
+    treatment of any medical condition. The website
+    owners, authors, and publishers of these stories are
+    not responsible for any actions taken based on the
+    information presented in these stories.
+  </p>
   <button class="close-button" aria-label="Dismiss alert" type="button" data-close="">
     <span aria-hidden="true">X</span>
   </button>
