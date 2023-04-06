@@ -1,5 +1,6 @@
 <templatizer>
 <meta charset="utf-8"/>
 <link rel="icon" type="image/jpeg" href="/me.jpg"/>
+<script src="https://kit.fontawesome.com/ae3497c31d.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="/foundation/6.7.5/css/foundation.css"/>
 </templatizer>
